@@ -2,7 +2,7 @@
 
 A budget tracker that lets the user add expenses and deposits to their budget with online/offline capabilities.
 
-![Image of Site]()
+![Image of Site](https://i.imgur.com/Dhavspk.png)
 
 # Table Of Contents
 
@@ -24,7 +24,7 @@ No installation required!
 
 ## Usage
 
-Simply go to the following link - []()
+Simply go to the following link - [Site](https://budget-tracker-aarong.herokuapp.com/)
 
 ## Contributions
 
